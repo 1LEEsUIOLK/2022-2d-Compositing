@@ -1,1 +1,0 @@
-# 2022-2d-Compositing
