@@ -8,7 +8,10 @@ A. 아마 Rotoscoping 과 3D Digital Matte Painting and 3D compositing 때문에
 
 # Visual Language 
 
+: 시각적인 요소를 통해 의미를 전달하는 체계.
 
+
+___
 
 # Matte Painting
 
@@ -104,6 +107,8 @@ That is, ALPHA CHANNEL helps us to divide an image with no leftover pixels that 
 
 ___
 # **출처**
+
+Visual Language definition <https://terms.naver.com/entry.naver?docId=3435618&cid=42346&categoryId=42346>
 
 Matte Painting definition <https://ko.dict.naver.com/#/search?query=matte%20painting>
 
