@@ -18,17 +18,23 @@ A. 아마 Rotoscoping 과 3D Digital Matte Painting and 3D compositing 때문에
 (=미리 세트로 구성하기 어려운 것을 페인트하는 방식)
 
 ex. paint on glass _ 마치 레이어처럼 겹겹이 쌓이는
-
-
+___
 2. How it works?
 
-plate glass with paintnig of upper part of structure -> combine the picture of paining with real structure
+First, plate glass with paintnig of specific part of structure 
 
-black part would be an alpha area which distinguish painting and the real actions
+Second, combine the picture of paining with real structure
 
+Third, film the combined picture of painting and real structure with camera
 
-background 묘사 위해 --> 배경 촬영 어려운 시절 배경 미리 그리고 ㅡ 위에 (검은 부분 = alpha)
-ex. starwars _ background (cg lack 시절) many soldiers
+The black part would be an **Alpha area** which distinguish the painting and the real ones.
+___
+3. 기타 설명
+
+배경 촬영이 어려운 시절/CG 기술이 부족하던 시절, background 묘사를 위해 사실적인 화풍으로 배경을 미리 그렸다.
+
+그리고 ㅡ 위에 (검은 부분 = alpha)
+ex. starwars _ background many soldiers
 set extension / large environment --> substitute
 ex. 구인공고 _ matte painter (spinvfx) _photorealistic painting 가능 + concept drawing 
 (https://www.spinvfx.com/careers/matte-painter/)
@@ -44,5 +50,5 @@ light / adjust layer / RGB channel / film noise(grain) effect use
 
 출처
 
-Matte Painting define <https://ko.dict.naver.com/#/search?query=matte%20painting>
+Matte Painting definition <https://ko.dict.naver.com/#/search?query=matte%20painting>
 
