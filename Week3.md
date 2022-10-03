@@ -41,7 +41,7 @@ ___
 
 (검은 부분 = alpha)
 
-<img width="630" alt="스크린샷 2022-10-03 오후 10 06 37" src="https://user-images.githubusercontent.com/114202118/193583854-09b7ddce-9983-4d41-93eb-fa9fb8f053f2.png"><img width="336" alt="스크린샷 2022-10-03 오후 10 45 04" src="https://user-images.githubusercontent.com/114202118/193593028-249edf7d-dbc9-43c9-bed1-ea5d70834cb6.png">
+<img width="630" alt="스크린샷 2022-10-03 오후 10 06 37" src="https://user-images.githubusercontent.com/114202118/193583854-09b7ddce-9983-4d41-93eb-fa9fb8f053f2.png">
 
 ex. Star Wars _ many soldiers in the background
 
