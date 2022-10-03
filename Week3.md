@@ -51,9 +51,19 @@ ex. 구인공고 matte painter(spinvfx) _ photorealistic painting 가능 + conce
 <https://www.spinvfx.com/careers/matte-painter/>
 
 - Matte Painter
-Albert Whitlock 
 
-ex. ben hur / 블레이드러너 / 
+Albert Whitlock _ 가장 유명한 Matte Painter 중 1명
+
+그는 1929년, 14살의 어린 나이때부터 matte painter 로서의 삶을 살기 시작했다.
+
+Alfred Hitchcock 와 일하기도 했으며 그때 미니어쳐 작업을 했는데 그 작품은 The Man Who Knew Too Much(1934) 이다.
+
+2차 세계대전이 발발할 당시, 그는 월트 디즈니에 들어가 유니버셜 스튜디오로 들어가기 1961년 전까지 Matte 부서에서 일했다. 
+
+그의 가장 훌륭하다고 평가받는 작품은 Disaster Film Earthquake(1974) 이고, 알버트는 이 작품을 통해 아카데미 수상도 이뤘다. 
+
+그 다음 해 오스카 상도 수상하는 등 그는 matte painter 로서의 명성을 유지했다. 
+
 
 # Photoshop 
 
