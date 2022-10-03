@@ -1,12 +1,13 @@
 Week3
-======
+---
 
 Q. VFX 에서는 왜 누크를 사용할까?
 
 A. 아마 Rotoscoping 과 3D Digital Matte Painting and 3D compositing 때문에 쓰이는 듯하다.
 
 
-# Visual language 
+# Visual Language 
+
 
 
 # Matte Painting
@@ -21,7 +22,7 @@ A. 아마 Rotoscoping 과 3D Digital Matte Painting and 3D compositing 때문에
 
 ex. paint on glass _ 마치 레이어처럼 겹겹이 쌓이는
 ___
-2. How it works?
+2. **How it works?**
 
 First, plate glass with paintnig of specific part of structure 
 
@@ -33,7 +34,7 @@ Third, film the combined picture of painting and real structure with camera
 
 The black part would be an **Alpha area** which distinguish the painting and the real ones.
 ___
-3. 기타 설명
+3. **기타 설명**
 
 배경 촬영이 어려운 시절/CG 기술이 부족하던 시절, background 묘사를 위해 사실적인 화풍으로 배경을 미리 그렸다.
 
@@ -49,9 +50,9 @@ ex. 구인공고 _ matte painter (spinvfx) _photorealistic painting 가능 + con
 (https://www.spinvfx.com/careers/matte-painter/)
 ex. ben hur / 블레이드러너 / 
 
-Photoshop 
-------------
-작업 시 주의사항)
+# Photoshop 
+
+**작업 시 주의사항**
 
 1. 배경부터 그리는 것 추천
 
@@ -61,9 +62,7 @@ Far(atmosphere set/concept set) > mid > near
 
 2. 가깝고 중간 멀리 있는 것들을 각각의 레이어로 나누면 좋다. 
 
-Layer mask 는 다른 파일로 export 할 때에는 같이 안 온다.
-
--> 같은 layer 로 merge 해야 함
+3. Layer mask 는 다른 파일로 export 할 때에는 같이 안 온다 -> 같은 layer 로 merge 해야 함.
 
 4. 신경쓸 것들
 
@@ -71,22 +70,30 @@ light / adjust layer / RGB channel / film noise(grain) effect use
 
 ___
 
-Thing that you should know about **ALPHA CHANNEL** 
+**Thing that you should know about ALPHA CHANNEL** 
 
-You should be aware of alpha channel b/c it differs your work depending on how you use it.
+- You should be aware of alpha channel b/c it differs your work depending on how you use it.
 
-Alpha could go bad occuring **BLACK FRINGING** which is some kind of bothersome error.
+- Alpha could go bad occuring **BLACK FRINGING** which is some kind of bothersome error.
 
-If you do not set an alpha channel on an image, it will have black where the semi transparent pixels are. 
+<img width="1266" alt="스크린샷 2022-10-03 오후 11 31 21" src="https://user-images.githubusercontent.com/114202118/193603388-bf63416f-7b08-4899-9802-e509644726d6.png">
 
-But if yo uset an alpha channel on an image, it would have full pixels where the semi transparent pixels are. 
+- If you do not set an alpha channel on an image, the image will have black around its edges where the semi transparent pixels are. 
 
-That is, ALPHA CHANNEL helps us to divide an image without any leftover pixels that would make an image imperfect.
+- But if you set an alpha channel on an image, it would have full pixels where the semi transparent pixels are. 
+
+That is, ALPHA CHANNEL helps us to divide an image with no leftover pixels that would make an image imperfect.
+
 
 
 출처
 
 Matte Painting definition <https://ko.dict.naver.com/#/search?query=matte%20painting>
 
-3주차 수업자료 pdf 
+3주차 수업자료 pdf_Images & Description
 
+Alpha Channel description [Garret Fry's Youtube Channel](Issues With Alphas For Matte Painters - YouTube)
+
+
+  
+  
