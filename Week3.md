@@ -36,9 +36,9 @@ The black part would be an **Alpha area** which distinguish the painting and the
 ___
 3. **기타 설명**
 
-배경 촬영이 어려운 시절/CG 기술이 부족하던 시절, background 묘사를 위해 사실적인 화풍으로 배경을 미리 그렸다.
+- 배경 촬영이 어려운 시절/CG 기술이 부족하던 시절, background 묘사를 위해 사실적인 화풍으로 배경을 미리 그렸다.
 
-세트를 확장(Set extension)하고 넓은 배경(large environment)을 대체하기 위한 수단으로도 사용되었다. 
+- 세트를 확장(Set extension)하고 넓은 배경(large environment)을 대체하기 위한 수단으로도 사용되었다. 
 
 (검은 부분 = alpha)
 
@@ -46,8 +46,13 @@ ___
 
 ex. Star Wars _ many soldiers in the background
 
-ex. 구인공고 _ matte painter (spinvfx) _photorealistic painting 가능 + concept drawing 
-(https://www.spinvfx.com/careers/matte-painter/)
+ex. 구인공고 matte painter(spinvfx) _ photorealistic painting 가능 + concept drawing 
+
+<https://www.spinvfx.com/careers/matte-painter/>
+
+- Matte Painter
+Albert Whitlock 
+
 ex. ben hur / 블레이드러너 / 
 
 # Photoshop 
@@ -85,8 +90,8 @@ ___
 That is, ALPHA CHANNEL helps us to divide an image with no leftover pixels that would make an image imperfect.
 
 
-
-출처
+___
+# **출처**
 
 Matte Painting definition <https://ko.dict.naver.com/#/search?query=matte%20painting>
 
