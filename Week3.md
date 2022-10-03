@@ -69,6 +69,10 @@ Layer mask 는 다른 파일로 export 할 때에는 같이 안 온다.
 
 light / adjust layer / RGB channel / film noise(grain) effect use
 
+___
+
+Thing that you should know about **ALPHA CHANNEL** 
+
 
 
 출처
