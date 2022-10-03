@@ -43,4 +43,6 @@ background _ alert - 근.중,원 layer 나눔  far(atmosphere set/concept set)>m
 light / adjust layer / RGB channel / film noise(grain) effect use 
 
 출처
-<>
+
+Matte Painting define <https://ko.dict.naver.com/#/search?query=matte%20painting>
+
