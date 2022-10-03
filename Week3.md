@@ -54,6 +54,8 @@ ex. 구인공고 matte painter(spinvfx) _ photorealistic painting 가능 + conce
 
 Albert Whitlock _ 가장 유명한 Matte Painter 중 1명
 
+<img width="209" alt="스크린샷 2022-10-04 오전 1 09 12" src="https://user-images.githubusercontent.com/114202118/193626178-add1b2a7-a95f-4e32-ae21-d3adb8fd63fb.png">
+
 그는 1929년, 14살의 어린 나이때부터 matte painter 로서의 삶을 살기 시작했다.
 
 Alfred Hitchcock 와 일하기도 했으며 그때 미니어쳐 작업을 했는데 그 작품은 The Man Who Knew Too Much(1934) 이다.
@@ -106,6 +108,8 @@ ___
 Matte Painting definition <https://ko.dict.naver.com/#/search?query=matte%20painting>
 
 3주차 수업자료 pdf_Images & Description
+
+Matte Painter_Albert Whitlock <https://www.imdb.com/name/nm0926087/?ref_=nmbio_bio_nm>
 
 Alpha Channel description [Garret Fry's Youtube Channel](Issues With Alphas For Matte Painters - YouTube)
 
