@@ -69,7 +69,7 @@ Alfred Hitchcock 와 일하기도 했으며 그때 미니어쳐 작업을 했는
 
 그 다음 해 오스카 상도 수상하는 등 그는 matte painter 로서의 명성을 유지했다. 
 
-
+___
 # Photoshop 
 
 **작업 시 주의사항**
