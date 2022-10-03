@@ -13,7 +13,7 @@ A. 아마 Rotoscoping 과 3D Digital Matte Painting and 3D compositing 때문에
 
 1. **Matte Painting 이란?**
 
-네이버 사전_두 개의 화면을 합성할 때, 인물과 합성하기 위해 유리 면에 배경 화면을 그리는 일.
+: 두 개의 화면을 합성할 때, 인물과 합성하기 위해 유리 면에 배경 화면을 그리는 일.
 
 (=미리 세트로 구성하기 어려운 것을 페인트하는 방식)
 
@@ -73,6 +73,15 @@ ___
 
 Thing that you should know about **ALPHA CHANNEL** 
 
+You should be aware of alpha channel b/c it differs your work depending on how you use it.
+
+Alpha could go bad occuring **BLACK FRINGING** which is some kind of bothersome error.
+
+If you do not set an alpha channel on an image, it will have black where the semi transparent pixels are. 
+
+But if yo uset an alpha channel on an image, it would have full pixels where the semi transparent pixels are. 
+
+That is, ALPHA CHANNEL helps us to divide an image without any leftover pixels that would make an image imperfect.
 
 
 출처
