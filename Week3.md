@@ -17,6 +17,8 @@ A. 아마 Rotoscoping 과 3D Digital Matte Painting and 3D compositing 때문에
 
 (=미리 세트로 구성하기 어려운 것을 페인트하는 방식)
 
+<img width="336" alt="스크린샷 2022-10-03 오후 10 46 15" src="https://user-images.githubusercontent.com/114202118/193593412-d81deb55-49d8-4ef2-aef2-eaff446353fb.png">
+
 ex. paint on glass _ 마치 레이어처럼 겹겹이 쌓이는
 ___
 2. How it works?
@@ -35,26 +37,43 @@ ___
 
 배경 촬영이 어려운 시절/CG 기술이 부족하던 시절, background 묘사를 위해 사실적인 화풍으로 배경을 미리 그렸다.
 
-그리고 ㅡ 위에 (검은 부분 = alpha)
+세트를 확장(Set extension)하고 넓은 배경(large environment)을 대체하기 위한 수단으로도 사용되었다. 
 
-![Uploading 스크린샷 2022-10-03 오후 9.43.05.png…]()
+(검은 부분 = alpha)
 
-ex. starwars _ background many soldiers
-set extension / large environment --> substitute
+<img width="630" alt="스크린샷 2022-10-03 오후 10 06 37" src="https://user-images.githubusercontent.com/114202118/193583854-09b7ddce-9983-4d41-93eb-fa9fb8f053f2.png"><img width="336" alt="스크린샷 2022-10-03 오후 10 45 04" src="https://user-images.githubusercontent.com/114202118/193593028-249edf7d-dbc9-43c9-bed1-ea5d70834cb6.png">
+
+ex. Star Wars _ many soldiers in the background
+
 ex. 구인공고 _ matte painter (spinvfx) _photorealistic painting 가능 + concept drawing 
 (https://www.spinvfx.com/careers/matte-painter/)
 ex. ben hur / 블레이드러너 / 
 
-photoshop 
+Photoshop 
 ------------
+작업 시 주의사항)
 
-alpha 위에 바로 그림 _ 원 소스제작
-background _ alert - 근.중,원 layer 나눔  far(atmosphere set/concept set)>mid>near 
-* layer mask --> 다른 파일로 export 때는 같이 안 옴 -- 같은 layer 로 merge
-light / adjust layer / RGB channel / film noise(grain) effect use 
+1. 배경부터 그리는 것 추천
+
+Far(atmosphere set/concept set) > mid > near
+
+멀리 있는 물체 및 배경부터 작업하므로써 분위기와 그 작업의 컨셉을 잡아두면 나중이 편해진다.
+
+2. 가깝고 중간 멀리 있는 것들을 각각의 레이어로 나누면 좋다. 
+
+Layer mask 는 다른 파일로 export 할 때에는 같이 안 온다.
+
+-> 같은 layer 로 merge 해야 함
+
+4. 신경쓸 것들
+
+light / adjust layer / RGB channel / film noise(grain) effect use
+
+
 
 출처
 
 Matte Painting definition <https://ko.dict.naver.com/#/search?query=matte%20painting>
+
 3주차 수업자료 pdf 
 
