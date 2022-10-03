@@ -1,14 +1,18 @@
 Week3
 ======
 
-visual language 
+Q. VFX 에서는 왜 누크를 사용할까?
+A. 아마 Rotoscoping 과 3D Digital Matte Painting and 3D compositing 때문에 쓰이는 듯하다.
+
+
+Visual language 
 --------
 
-matte painting
+Matte Painting
 -------
-why called? -> 
-Matte : 
-EX. paint on glass _ 겹겹이 like layers
+What does that mean?
+네이버 사전 정의 : 두 개의 화면을 합성할 때, 인물과 합성하기 위해 유리 면에 배경 화면을 그리는 일.
+ex. paint on glass _ 마치 레이어처럼 겹겹이 쌓이는
 미리 세트로 구성하기 어려운 것을 페인트하는 방식
 plate glass with paintnig of upper part of structure -> combine picture of paining with real structure
 alpha distinguish painting 
@@ -17,7 +21,6 @@ ex. starwars _ background (cg lack 시절) many soldiers
 set extension / large environment --> substitute
 ex. 구인공고 _ matte painter (spinvfx) _photorealistic painting 가능 + concept drawing 
 (https://www.spinvfx.com/careers/matte-painter/)
-ㅇㄹㅇ
 ex. ben hur / 블레이드러너 / 
 
 photoshop 
