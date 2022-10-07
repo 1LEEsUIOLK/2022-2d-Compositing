@@ -18,3 +18,6 @@ ex. gobo light _ 조명 <https://search.naver.com/search.naver?sm=tab_hty.top&wh
 ___
 왼쪽에 아이템들 누르고 뷰어에 나오면 L 누르고 정렬
 누크 32비트_소수점5자리까지 위치표시
+
+
+roto _ z smooth 
