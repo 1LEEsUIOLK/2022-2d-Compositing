@@ -97,3 +97,7 @@ nuke node 는 위에서 아래로 일직선 되게끔 정리
 --> merge라는 노드로 계속 쌓아주기
 'over' --> combine two layers
 promult .........???
+
+아래에 있을 수록 위 레이어 임
+
+node graph 정리
