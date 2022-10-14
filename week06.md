@@ -88,3 +88,12 @@ roto smooth z 키 주면 됨
 shape 겹치는 부분들 알파값 차이 안 나도록 일자가 되거나 일치하도록 크게 잡아주는 것 필요
 
 checkerboard? 에 다 얹어보면 튀는부분확인가능
+
+
+# Merge
+a, b, mask
+nuke node 는 위에서 아래로 일직선 되게끔 정리
+최상단 리드노드
+--> merge라는 노드로 계속 쌓아주기
+'over' --> combine two layers
+promult .........???
