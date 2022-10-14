@@ -72,3 +72,19 @@ alpha channel 로 했을 때 다시 확인필요
 패더값
 educationsupport@foundry.com 
 liscence@foundry.com
+
+lantern boy 
+1. motion path 확인 (shoe 접히는 부분 따로.. ) _ 각 요소별 핵심되는 부분 잡기
+
+
+
+단축키 o roto
+p roto paitn
+
+roto 하고 오른편에 life 더블클릭 - 바꿀 수 있음
+roto smooth z 키 주면 됨
+
+최대한 점 안 옮기는 방향으로 프레임 로토 주기
+shape 겹치는 부분들 알파값 차이 안 나도록 일자가 되거나 일치하도록 크게 잡아주는 것 필요
+
+checkerboard? 에 다 얹어보면 튀는부분확인가능
