@@ -77,7 +77,3 @@ Dimension explanation  <[Visualizing the Fourth Dimension - Research Blog (duke.
 Color explanation <[RGB vs CMYK: What's the Difference? (99designs.com)](https://99designs.com/blog/tips/correct-file-formats-rgb-and-cmyk/)>
 
 Alpha Channel definition <[알파 채널 (naver.com)](https://terms.naver.com/entry.naver?docId=852484&cid=42346&categoryId=42346)>
-
-Colorspace definition & explanation <[색 공간 (naver.com)](https://terms.naver.com/entry.naver?docId=865387&cid=42346&categoryId=42346)> & <https://terms.naver.com/entry.naver?docId=865387&cid=42346&categoryId=42346>
-
-
