@@ -69,13 +69,6 @@ This additional channel is called an alpha channel. Alpha channels effectively f
 
 <img width="701" alt="스크린샷 2022-11-08 오후 1 00 03" src="https://user-images.githubusercontent.com/114202118/200472063-27679f0a-3ccd-4048-9d61-4b6dae45ba6e.png">
 
-# Colorspace
-
-The range of colors that can be represented in a color model coordinate system, which is generally expressed as a combination of three primary colors: red, green, and blue.
-
-The human eye is the most comprehensive color space because it can detect various colors that the electronic device cannot copy. In practice, internationally standardized International Lighting Commission (CIE) chromaticity diagrams developed for efficient color image processing are mainly used. It refers to a range of colors reproduced by a monitor or a printer, and has the same meaning as a range of colors.
-
-<img width="404" alt="스크린샷 2022-11-08 오후 1 13 05" src="https://user-images.githubusercontent.com/114202118/200473550-696876cb-57af-4b3c-920c-635a101f1e78.png">
 
 # 출처
 
@@ -86,5 +79,5 @@ Color explanation <[RGB vs CMYK: What's the Difference? (99designs.com)](https:/
 Alpha Channel definition <[알파 채널 (naver.com)](https://terms.naver.com/entry.naver?docId=852484&cid=42346&categoryId=42346)>
 
 Colorspace definition & explanation <[색 공간 (naver.com)](https://terms.naver.com/entry.naver?docId=865387&cid=42346&categoryId=42346)> & <https://terms.naver.com/entry.naver?docId=865387&cid=42346&categoryId=42346>
-<https://terms.naver.com/entry.naver?docId=865387&cid=42346&categoryId=42346>
+
 
