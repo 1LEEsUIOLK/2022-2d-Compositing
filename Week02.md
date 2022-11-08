@@ -9,3 +9,10 @@ The human eye is the most comprehensive color space because it can detect variou
 A range of colors obtained by mixing certain primary colors, i.e. a range of colors produced by mixing three primary colors of additive or subtractive colors properly, and almost all of the important colors are included in this range, but there are also areas of color that cannot be made. The color gamut of gambit is narrower than that of gambit.
 
 ACES2065
+
+
+# 출처
+
+Colorspace definition & explanation <[색 공간 (naver.com)](https://terms.naver.com/entry.naver?docId=865387&cid=42346&categoryId=42346)> & <https://terms.naver.com/entry.naver?docId=865387&cid=42346&categoryId=42346>
+
+
