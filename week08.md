@@ -139,3 +139,12 @@ Prof. -채도만 많이 쓰심
 ## Appendclip - 다음 컷 다른 경우 이어줌
 
 ## **참고 사이트 : Nuke is fun.com**
+
+# 출처
+
+Dimension explanation  <[Visualizing the Fourth Dimension - Research Blog (duke.edu)](https://researchblog.duke.edu/2017/04/26/visualizing-the-fourth-dimension/)>
+
+Color explanation <[RGB vs CMYK: What's the Difference? (99designs.com)](https://99designs.com/blog/tips/correct-file-formats-rgb-and-cmyk/)>
+
+Alpha Channel definition <[알파 채널 (naver.com)](https://terms.naver.com/entry.naver?docId=852484&cid=42346&categoryId=42346)>
+
