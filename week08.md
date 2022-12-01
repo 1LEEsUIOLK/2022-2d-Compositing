@@ -142,9 +142,9 @@ Prof. -채도만 많이 쓰심
 
 # 출처
 
-Dimension explanation  <[Visualizing the Fourth Dimension - Research Blog (duke.edu)](https://researchblog.duke.edu/2017/04/26/visualizing-the-fourth-dimension/)>
+8주차 수업
 
-Color explanation <[RGB vs CMYK: What's the Difference? (99designs.com)](https://99designs.com/blog/tips/correct-file-formats-rgb-and-cmyk/)>
+Concatenation Node explanation & Image <[[Visualizing the Fourth Dimension - Research Blog (duke.edu)](https://researchblog.duke.edu/2017/04/26/visualizing-the-fourth-dimension/)](https://learn.foundry.com/nuke/content/comp_environment/transforming_elements/node_concatenation.html)>
 
-Alpha Channel definition <[알파 채널 (naver.com)](https://terms.naver.com/entry.naver?docId=852484&cid=42346&categoryId=42346)>
+Concatenate definition <[[알파 채널 (naver.com)](https://terms.naver.com/entry.naver?docId=852484&cid=42346&categoryId=42346)](https://en.dict.naver.com/#/search?range=all&query=concatenate)>
 
